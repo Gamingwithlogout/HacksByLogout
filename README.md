@@ -1,6 +1,6 @@
 # HacksByLogout
 Its a automatic PAYLOAD injector tools for kali linux powered by LogOut AKA Ethical Hacker.  
-##First os all make install of all the files required during this process . you can directly do it by installation script i.e. install.sh on the main folder. 
+##First of all make install of all the files required during this process . you can directly do it by installation script i.e. install.sh on the main folder. 
 Run ./install.sh                                                                             
 OR  
 install the following packages
